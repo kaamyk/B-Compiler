@@ -53,3 +53,8 @@ dkms.conf
 
 # debug information files
 *.dwo
+
+**/Bison*
+b.pdf
+Flex*
+en.subject.pdf
